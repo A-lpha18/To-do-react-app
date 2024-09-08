@@ -1,0 +1,10 @@
+
+.cointainer{
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+}
+.content{
+    font-size: large;
+    font-weight: 500;
+}
